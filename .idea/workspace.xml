@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0bab167b-0621-448c-93b3-edd4d84266d6" name="默认的" comment="" />
+    <list default="true" id="0bab167b-0621-448c-93b3-edd4d84266d6" name="默认的" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Employee.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/EmployeeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/EmployeeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/java001/Extend/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/java001/Extend/Employee.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/zeroten/java001/Extend/EmployeeTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/zeroten/java001/Extend/EmployeeTest.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +22,68 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Employee.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-628">
+              <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Interface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="227">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="e#427#428#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/InterfaceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/CopyTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Interface2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/InterfaceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,8 +96,17 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Manager.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/EmployeeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/MasterManager.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/EmployeeTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Teacher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Student.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Person.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/AbstractTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Interface2.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/InterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Interface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/InterfaceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/CopyTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Employee.java" />
       </list>
     </option>
@@ -53,6 +131,32 @@
             <path>
               <item name="2019-12-20金讯" type="b2602c69:ProjectViewProjectNode" />
               <item name="2019-12-20金讯" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-12-20金讯" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-12-20金讯" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-12-20金讯" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-12-20金讯" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-12-20金讯" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-12-20金讯" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-12-20金讯" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-12-20金讯" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Extend" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -82,26 +186,56 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.EmployeeTest.testDuoTai">
-    <configuration name="EmployeeTest" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="2019-12-20金讯" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zeroten.java001.Extend.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.zeroten.java001.Extend" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.Extend.EmployeeTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
+  <component name="RunManager" selected="TestNG.CopyTest.testCopy">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="2019-12-20-" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.testDuoTai" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="2019-12-20金讯" />
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="2019-12-20-" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AbstractTest.testPrint" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2019-12-20-" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zeroten.java001.Extend.*" />
@@ -109,8 +243,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.zeroten.java001.Extend" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.Extend.EmployeeTest" />
-      <option name="METHOD_NAME" value="testDuoTai" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.Extend.AbstractTest" />
+      <option name="METHOD_NAME" value="testPrint" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -118,8 +252,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmployeeTest.testPrint" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="2019-12-20金讯" />
+    <configuration name="CopyTest.testCopy" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2019-12-20-" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.zeroten.java001.Extend.*" />
@@ -127,8 +261,62 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.zeroten.java001.Extend" />
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.Extend.EmployeeTest" />
-      <option name="METHOD_NAME" value="testPrint" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.Extend.CopyTest" />
+      <option name="METHOD_NAME" value="testCopy" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Employee.clone" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2019-12-20-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.java001.Extend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zeroten.java001.Extend" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.Extend.Employee" />
+      <option name="METHOD_NAME" value="clone" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceTest.InterfaceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2019-12-20-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.java001.Extend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zeroten.java001.Extend" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.Extend.InterfaceTest" />
+      <option name="METHOD_NAME" value="InterfaceTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterfaceTest.Test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="2019-12-20-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.java001.Extend.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.zeroten.java001.Extend" />
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.Extend.InterfaceTest" />
+      <option name="METHOD_NAME" value="Test1" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -138,9 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.EmployeeTest.testDuoTai" />
-        <item itemvalue="TestNG.EmployeeTest" />
-        <item itemvalue="TestNG.EmployeeTest.testPrint" />
+        <item itemvalue="TestNG.CopyTest.testCopy" />
+        <item itemvalue="TestNG.Employee.clone" />
+        <item itemvalue="TestNG.InterfaceTest.Test1" />
+        <item itemvalue="TestNG.InterfaceTest.InterfaceTest" />
+        <item itemvalue="TestNG.AbstractTest.testPrint" />
       </list>
     </recent_temporary>
   </component>
@@ -155,47 +345,48 @@
       <option name="presentableId" value="Default" />
       <updated>1576819861814</updated>
       <workItem from="1576819870181" duration="2608000" />
-      <workItem from="1576995187405" duration="6017000" />
+      <workItem from="1576995187405" duration="15255000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="EmployeeTest_testDuoTai - 2019.12.22 at 17h 43m 40s.xml">
-      <configuration name="EmployeeTest.testDuoTai" configurationId="TestNG" />
+    <history-entry file="AbstractTest_testPrint - 2019.12.23 at 11h 48m 33s.xml">
+      <configuration name="AbstractTest.testPrint" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmployeeTest_testDuoTai - 2019.12.22 at 17h 45m 21s.xml">
-      <configuration name="EmployeeTest.testDuoTai" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_InterfaceTest - 2019.12.23 at 12h 03m 35s.xml">
+      <configuration name="InterfaceTest.InterfaceTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmployeeTest_testPrint - 2019.12.22 at 17h 46m 07s.xml">
-      <configuration name="EmployeeTest.testPrint" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_InterfaceTest - 2019.12.23 at 12h 04m 41s.xml">
+      <configuration name="InterfaceTest.InterfaceTest" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmployeeTest - 2019.12.22 at 17h 46m 22s.xml">
-      <configuration name="EmployeeTest" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_Test1 - 2019.12.23 at 12h 16m 24s.xml">
+      <configuration name="InterfaceTest.Test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmployeeTest - 2019.12.22 at 17h 48m 07s.xml">
-      <configuration name="EmployeeTest" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_Test1 - 2019.12.23 at 12h 18m 51s.xml">
+      <configuration name="InterfaceTest.Test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmployeeTest_testDuoTai - 2019.12.22 at 17h 54m 05s.xml">
-      <configuration name="EmployeeTest.testDuoTai" configurationId="TestNG" />
+    <history-entry file="InterfaceTest_Test1 - 2019.12.23 at 13h 53m 00s.xml">
+      <configuration name="InterfaceTest.Test1" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmployeeTest_testDuoTai - 2019.12.22 at 17h 55m 05s.xml">
-      <configuration name="EmployeeTest.testDuoTai" configurationId="TestNG" />
+    <history-entry file="Employee_clone - 2019.12.23 at 13h 57m 46s.xml">
+      <configuration name="Employee.clone" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmployeeTest_testDuoTai - 2019.12.22 at 17h 55m 25s.xml">
-      <configuration name="EmployeeTest.testDuoTai" configurationId="TestNG" />
+    <history-entry file="CopyTest_testCopy - 2019.12.23 at 13h 59m 41s.xml">
+      <configuration name="CopyTest.testCopy" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmployeeTest_testDuoTai - 2019.12.22 at 17h 57m 05s.xml">
-      <configuration name="EmployeeTest.testDuoTai" configurationId="TestNG" />
+    <history-entry file="Employee_clone - 2019.12.23 at 14h 01m 01s.xml">
+      <configuration name="Employee.clone" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="EmployeeTest_testDuoTai - 2019.12.22 at 17h 58m 03s.xml">
-      <configuration name="EmployeeTest.testDuoTai" configurationId="TestNG" />
+    <history-entry file="CopyTest_testCopy - 2019.12.23 at 14h 01m 07s.xml">
+      <configuration name="CopyTest.testCopy" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8625000" />
+    <option name="totallyTimeSpent" value="17863000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21482602" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -211,11 +402,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.492635" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.492635" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="消息" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="运行" order="11" weight="0.4304419" />
+      <window_info anchor="bottom" id="消息" order="10" weight="0.34369886" />
+      <window_info active="true" anchor="bottom" id="运行" order="11" visible="true" weight="0.29787233" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="调试" order="14" weight="0.26022914" />
@@ -241,50 +432,115 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Employee.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#645#646#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Manager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/MasterManager.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="18" column="5" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#125#126#0" expanded="true" />
-            <element signature="e#161#162#0" expanded="true" />
-            <element signature="e#135#136#0" expanded="true" />
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#206#207#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="228">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/EmployeeTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="43" column="13" lean-forward="true" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        <state relative-caret-position="130">
+          <caret line="81" column="73" selection-start-line="81" selection-start-column="73" selection-end-line="81" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/MasterManager.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Teacher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#181#182#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="22" lean-forward="true" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+          <folding>
+            <element signature="e#154#155#0" expanded="true" />
+            <element signature="e#184#185#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="30" lean-forward="true" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          <folding>
+            <element signature="e#149#150#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/AbstractTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="266">
-          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <caret line="14" column="57" selection-start-line="14" selection-start-column="57" selection-end-line="14" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Interface2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="19" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/InterfaceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Interface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
-            <element signature="e#152#153#0" expanded="true" />
-            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/InterfaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Employee.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-628">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/CopyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="35" lean-forward="true" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="35" />
         </state>
       </provider>
     </entry>

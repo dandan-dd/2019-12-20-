@@ -1,12 +1,14 @@
 package com.zeroten.java001.Extend;
 
+import org.testng.annotations.Test;
+
 import java.util.Date;
 
-public class Employee {
+public class Employee implements java.lang.Cloneable{
 
     //若需要防止被继承或者重写,可加上final修饰符
 
-    private String name;
+    private String name;//其子类无法调用,需要使用下面的getter\getter方法
     private Date hireDay;
     private Integer salary;
 
@@ -56,5 +58,10 @@ public class Employee {
 
         System.out.println(tmp.toString());
 
+    }
+
+    @Test
+    public Employee clone() throws CloneNotSupportedException{
+        return (Employee)super.clone();
     }
 }
