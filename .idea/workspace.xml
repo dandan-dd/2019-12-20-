@@ -17,53 +17,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/ArraySequence.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="28" column="41" selection-start-line="28" selection-start-column="41" selection-end-line="28" selection-end-column="41" />
-              <folding>
-                <element signature="e#165#166#0" expanded="true" />
-                <element signature="e#202#203#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
-                <element signature="e#391#392#0" expanded="true" />
-                <element signature="e#476#477#0" expanded="true" />
-                <element signature="e#517#518#0" expanded="true" />
-                <element signature="e#561#562#0" expanded="true" />
-                <element signature="e#608#609#0" expanded="true" />
-                <element signature="e#559#560#0" expanded="true" />
-                <element signature="e#587#588#0" expanded="true" />
-                <element signature="e#632#633#0" expanded="true" />
-                <element signature="e#659#660#0" expanded="true" />
-                <element signature="e#824#825#0" expanded="true" />
-                <element signature="e#851#852#0" expanded="true" />
-                <element signature="e#808#809#0" expanded="true" />
-                <element signature="e#844#845#0" expanded="true" />
-                <element signature="e#1163#1164#0" expanded="true" />
-                <element signature="e#1191#1192#0" expanded="true" />
-                <element signature="e#518#519#0" expanded="true" />
-                <element signature="e#554#555#0" expanded="true" />
-                <element signature="e#804#805#0" expanded="true" />
-                <element signature="e#832#833#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/java001/innerClass/ArraySequenceTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Outer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Selector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="190">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding>
+                <element signature="e#205#206#0" expanded="true" />
+                <element signature="e#257#258#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+                <element signature="e#214#215#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -116,13 +80,15 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Selector.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/ArraySequence.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/zeroten/java001/innerClass/ArraySequenceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/helloworld.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Outer.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="320" />
+    <option name="y" value="79" />
+    <option name="width" value="781" />
     <option name="height" value="688" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -175,27 +141,6 @@
               <item name="java001" type="462c0819:PsiDirectoryNode" />
               <item name="innerClass" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="2019-12-20金讯" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019-12-20金讯" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019-12-20金讯" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019-12-20金讯" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="2019-12-20金讯" type="b2602c69:ProjectViewProjectNode" />
-              <item name="2019-12-20金讯" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="innerClass" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -230,7 +175,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ArraySequenceTest.testPrint">
+  <component name="RunManager" selected="应用程序.Outer">
     <configuration name="DoubleInit" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="innerClass.DoubleInit" />
       <module name="2019-12-20-" />
@@ -244,12 +189,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClass3" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerClass.OuterClass3" />
+    <configuration name="Outer" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.innerClass.Outer" />
       <module name="2019-12-20-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerClass.*" />
+          <option name="PATTERN" value="com.zeroten.java001.innerClass.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,11 +253,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Outer" />
         <item itemvalue="TestNG.ArraySequenceTest.testPrint" />
         <item itemvalue="TestNG.CalcMaxMinTest.testCalc" />
         <item itemvalue="应用程序.DoubleInit" />
         <item itemvalue="应用程序.OuterClass4" />
-        <item itemvalue="应用程序.OuterClass3" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +273,7 @@
       <updated>1576819861814</updated>
       <workItem from="1576819870181" duration="2608000" />
       <workItem from="1576995187405" duration="18163000" />
-      <workItem from="1577269738401" duration="16695000" />
+      <workItem from="1577269738401" duration="19877000" />
     </task>
     <servers />
   </component>
@@ -365,13 +310,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37466000" />
+    <option name="totallyTimeSpent" value="40648000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="586" y="22" width="781" height="688" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2118003" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.21772939" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -388,8 +333,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.492635" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="消息" order="10" weight="0.34369886" />
-      <window_info active="true" anchor="bottom" id="运行" order="11" visible="true" weight="0.049099836" />
+      <window_info active="true" anchor="bottom" id="消息" order="10" visible="true" weight="0.24504505" />
+      <window_info anchor="bottom" id="运行" order="11" weight="0.8150573" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="调试" order="14" weight="0.26022914" />
@@ -564,13 +509,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/OuterClass2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="523">
-          <caret line="56" column="1" lean-forward="true" selection-start-line="56" selection-start-column="1" selection-end-line="56" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/OuterClass3Interface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
@@ -666,10 +604,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Selector.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/java001/innerClass/ArraySequenceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        <state relative-caret-position="190">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -704,10 +642,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/zeroten/java001/innerClass/ArraySequenceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Selector.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="43" column="9" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        <state relative-caret-position="171">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/OuterClass2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Outer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+            <element signature="e#214#215#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
