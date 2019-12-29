@@ -17,17 +17,77 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Outer.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDaoImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+            <state relative-caret-position="323">
+              <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="383">
+              <caret line="90" column="33" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User2DaoCgligProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="230">
+              <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
               <folding>
-                <element signature="e#205#206#0" expanded="true" />
-                <element signature="e#257#258#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-                <element signature="e#214#215#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User2Dao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserInvocationHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="418">
+              <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#255#256#0" expanded="true" />
+                <element signature="e#289#290#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDaoProxy.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="380">
+              <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+              <folding>
+                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#651#652#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -82,12 +142,23 @@
         <option value="$PROJECT_DIR$/src/test/java/com/zeroten/java001/innerClass/ArraySequenceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/helloworld.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Outer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDaoIpml.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDao.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDaoProxy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserInvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User2InvocationHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User2Dao.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User2DaoCgligProxy.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="320" />
-    <option name="y" value="79" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="74" />
+    <option name="y" value="30" />
     <option name="width" value="781" />
     <option name="height" value="688" />
   </component>
@@ -97,8 +168,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -139,12 +208,14 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java001" type="462c0819:PsiDirectoryNode" />
-              <item name="innerClass" type="462c0819:PsiDirectoryNode" />
+              <item name="proxy" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -175,7 +246,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.Outer">
+  <component name="RunManager" selected="应用程序.UserService">
     <configuration name="DoubleInit" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="innerClass.DoubleInit" />
       <module name="2019-12-20-" />
@@ -202,12 +273,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OuterClass4" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="innerClass.OuterClass4" />
+    <configuration name="UserService" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.proxy.UserService" />
       <module name="2019-12-20-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="innerClass.*" />
+          <option name="PATTERN" value="com.zeroten.java001.proxy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -253,11 +324,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.UserService" />
         <item itemvalue="应用程序.Outer" />
         <item itemvalue="TestNG.ArraySequenceTest.testPrint" />
         <item itemvalue="TestNG.CalcMaxMinTest.testCalc" />
         <item itemvalue="应用程序.DoubleInit" />
-        <item itemvalue="应用程序.OuterClass4" />
       </list>
     </recent_temporary>
   </component>
@@ -273,14 +344,15 @@
       <updated>1576819861814</updated>
       <workItem from="1576819870181" duration="2608000" />
       <workItem from="1576995187405" duration="18163000" />
-      <workItem from="1577269738401" duration="19877000" />
+      <workItem from="1577269738401" duration="20238000" />
+      <workItem from="1577454495095" duration="9080000" />
+      <workItem from="1577495692327" duration="170000" />
+      <workItem from="1577582256813" duration="2980000" />
+      <workItem from="1577585282795" duration="2951000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="ArraySequenceTest_testPrint - 2019.12.26 at 12h 11m 08s.xml">
-      <configuration name="ArraySequenceTest.testPrint" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="ArraySequenceTest_testPrint - 2019.12.26 at 12h 11m 24s.xml">
       <configuration name="ArraySequenceTest.testPrint" configurationId="TestNG" />
     </history-entry>
@@ -308,15 +380,18 @@
     <history-entry file="ArraySequenceTest_testPrint - 2019.12.26 at 12h 47m 04s.xml">
       <configuration name="ArraySequenceTest.testPrint" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="ArraySequenceTest_testPrint - 2019.12.26 at 14h 02m 25s.xml">
+      <configuration name="ArraySequenceTest.testPrint" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40648000" />
+    <option name="totallyTimeSpent" value="56190000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="586" y="22" width="781" height="688" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.21772939" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19364598" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -333,8 +408,8 @@
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.492635" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="消息" order="10" visible="true" weight="0.24504505" />
-      <window_info anchor="bottom" id="运行" order="11" weight="0.8150573" />
+      <window_info anchor="bottom" id="消息" order="10" weight="0.24386252" />
+      <window_info active="true" anchor="bottom" id="运行" order="11" visible="true" weight="0.07528642" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="调试" order="14" weight="0.26022914" />
@@ -352,14 +427,21 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Outer.java</url>
+          <line>16</line>
+          <properties class="com.zeroten.java001.innerClass.Outer" method="main">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Manager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
@@ -479,21 +561,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/innerClass/OuterClass5.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="31" column="30" selection-start-line="31" selection-start-column="30" selection-end-line="31" selection-end-column="30" />
-          <folding>
-            <element signature="e#159#160#0" expanded="true" />
-            <element signature="e#193#194#0" expanded="true" />
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#265#266#0" expanded="true" />
-            <element signature="e#1037#1640#0" expanded="true" />
-            <element signature="e#1639#1640#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/innerClass/OuterClass5.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/OuterClass.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="523">
@@ -551,17 +619,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" lean-forward="true" selection-start-line="2" selection-end-line="20" />
-          <folding>
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Pair.java" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/CalcMin.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -658,13 +716,89 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/innerClass/Outer.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#205#206#0" expanded="true" />
             <element signature="e#257#258#0" expanded="true" />
             <element signature="e#176#177#0" expanded="true" />
             <element signature="e#214#215#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User2InvocationHandler.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserInvocationHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="33" selection-start-line="25" selection-start-column="33" selection-end-line="25" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#289#290#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDaoProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#651#652#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="33" selection-start-line="17" selection-start-column="33" selection-end-line="17" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User2Dao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="466">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="383">
+          <caret line="90" column="33" selection-start-line="90" selection-start-column="33" selection-end-line="90" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/proxy/User2DaoCgligProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="18" column="27" lean-forward="true" selection-start-line="18" selection-start-column="27" selection-end-line="18" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
