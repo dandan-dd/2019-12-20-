@@ -18,14 +18,12 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/listIterator.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/LinkedListStudy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+            <state relative-caret-position="181">
+              <caret line="78" column="34" lean-forward="true" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1659#1660#0" expanded="true" />
-                <element signature="e#1689#1690#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -44,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/EmployeeTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Teacher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Person.java" />
@@ -93,8 +90,9 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/collection/CollectionSimpleUser.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/collection/SetSimpleUse.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/collection/MapSimpleUse.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/ListStudy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/listIterator.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/ListStudy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/LinkedListStudy.java" />
       </list>
     </option>
   </component>
@@ -186,13 +184,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.listIterator">
-    <configuration name="CollectionSimpleUser" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.collection.CollectionSimpleUser" />
+  <component name="RunManager" selected="应用程序.LinkedListStudy">
+    <configuration name="LinkedListStudy" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.list.LinkedListStudy" />
       <module name="2019-12-20-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zeroten.java001.collection.*" />
+          <option name="PATTERN" value="com.zeroten.java001.list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -254,11 +252,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.LinkedListStudy" />
         <item itemvalue="应用程序.listIterator" />
         <item itemvalue="应用程序.ListStudy" />
         <item itemvalue="应用程序.MapSimpleUse" />
         <item itemvalue="应用程序.SetSimpleUse" />
-        <item itemvalue="应用程序.CollectionSimpleUser" />
       </list>
     </recent_temporary>
   </component>
@@ -281,7 +279,7 @@
       <workItem from="1577585282795" duration="3110000" />
       <workItem from="1578709770960" duration="598000" />
       <workItem from="1579151177804" duration="12881000" />
-      <workItem from="1579448797300" duration="5815000" />
+      <workItem from="1579448797300" duration="9524000" />
     </task>
     <servers />
   </component>
@@ -318,13 +316,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75643000" />
+    <option name="totallyTimeSpent" value="79352000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24054463" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24054463" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -338,11 +336,11 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.49169436" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.49099836" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="消息" order="10" weight="0.24386252" />
-      <window_info anchor="bottom" id="运行" order="11" weight="0.33387887" />
+      <window_info anchor="bottom" id="运行" order="11" weight="0.55973816" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="调试" order="14" weight="0.26022914" />
@@ -760,24 +758,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/ListStudy.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/listIterator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="74" column="36" lean-forward="true" selection-start-line="74" selection-start-column="36" selection-end-line="74" selection-end-column="36" />
+        <state relative-caret-position="295">
+          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/listIterator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/ListStudy.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="257">
-          <caret line="37" column="29" selection-start-line="37" selection-start-column="29" selection-end-line="37" selection-end-column="29" />
+          <caret line="19" column="64" selection-start-line="19" selection-start-column="64" selection-end-line="19" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1659#1660#0" expanded="true" />
-            <element signature="e#1689#1690#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/LinkedListStudy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="181">
+          <caret line="78" column="34" lean-forward="true" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
