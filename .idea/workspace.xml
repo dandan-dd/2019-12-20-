@@ -18,10 +18,10 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/LinkedListStudy.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/mapTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="78" column="34" lean-forward="true" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+            <state relative-caret-position="286">
+              <caret line="144" column="58" selection-start-line="144" selection-start-column="58" selection-end-line="144" selection-end-column="58" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -42,7 +42,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Teacher.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Person.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/AbstractTest.java" />
@@ -93,6 +92,7 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/listIterator.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/ListStudy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/list/LinkedListStudy.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/mapTest.java" />
       </list>
     </option>
   </component>
@@ -146,7 +146,7 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="java001" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="map" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.LinkedListStudy">
+  <component name="RunManager" selected="应用程序.mapTest">
     <configuration name="LinkedListStudy" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.list.LinkedListStudy" />
       <module name="2019-12-20-" />
@@ -224,19 +224,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SetSimpleUse" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.collection.SetSimpleUse" />
-      <module name="2019-12-20-" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zeroten.java001.collection.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="listIterator" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.list.listIterator" />
       <module name="2019-12-20-" />
@@ -250,13 +237,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mapTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.map.mapTest" />
+      <module name="2019-12-20-" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zeroten.java001.map.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.mapTest" />
         <item itemvalue="应用程序.LinkedListStudy" />
         <item itemvalue="应用程序.listIterator" />
         <item itemvalue="应用程序.ListStudy" />
         <item itemvalue="应用程序.MapSimpleUse" />
-        <item itemvalue="应用程序.SetSimpleUse" />
       </list>
     </recent_temporary>
   </component>
@@ -279,7 +279,7 @@
       <workItem from="1577585282795" duration="3110000" />
       <workItem from="1578709770960" duration="598000" />
       <workItem from="1579151177804" duration="12881000" />
-      <workItem from="1579448797300" duration="9524000" />
+      <workItem from="1579448797300" duration="19127000" />
     </task>
     <servers />
   </component>
@@ -316,7 +316,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79352000" />
+    <option name="totallyTimeSpent" value="88955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -340,7 +340,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="消息" order="10" weight="0.24386252" />
-      <window_info anchor="bottom" id="运行" order="11" weight="0.55973816" />
+      <window_info active="true" anchor="bottom" id="运行" order="11" visible="true" weight="0.3764321" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="调试" order="14" weight="0.26022914" />
@@ -782,6 +782,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="181">
           <caret line="78" column="34" lean-forward="true" selection-start-line="78" selection-start-column="34" selection-end-line="78" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/mapTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="144" column="58" selection-start-line="144" selection-start-column="58" selection-end-line="144" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
