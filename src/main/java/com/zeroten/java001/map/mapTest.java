@@ -143,7 +143,53 @@ public class mapTest {
 
         //遍历：可以获取集合的三种视图
         //  1.键集keySet()   2.值集values()   3.键值对集entrySet()
+
+        //内部结构：散列表
+        //put/get时，如果数组容量不足哈希值，则哈希桶的索引=hash%length
+        //计算哈希值时，key.hashCode()
+        //在桶内比较某个key值是否存在  使用的是 key.equals(inputKey)
+        //"001":{name:"南六",age:20}
+        //"001":{name:"南七",age:21}
+        //hashCode()返回的值相等时，equals比较的结果应该返回true
+        //equals比较的结果返回true时，hashCode()返回的值相等
+
+        //可能出现这种情况：hashCode相等，equals返回false
+        //hashCode（001）=1，1%3=1
+        //hashCode（001）=1，1%3=1
+        //循环链查找key
+        //hash==hash&&key.equals（inputKey）==false,会造成相同的键值
+        //{hash:1,key:001,value:{name:"n1",age:22}}
+        //{hash:1,key:001,value:{name:"n2",age:23}}
+
+        Map<Key,Student> hashMap4=new HashMap<>();
+        hashMap4.put(new Key(1),new Student("zhangsan",25));
+        hashMap4.put(new Key(1),new Student("zhangsan",25));
+        System.out.println(hashMap4);
     }
+
+    static class Key{
+        private Integer i;
+        public Key(Integer i){
+            this.i=i;
+        }
+        @Override
+        public int hashCode(){
+            return i==null?0:i.hashCode();
+        }
+        @Override
+        public boolean equals(Object object){
+            if(object instanceof Key){
+                Key key=(Key) object;
+                return i!=null&i.equals(key.i);
+            }
+            return false;
+        }
+        @Override
+        public String toString(){
+            return i+"";
+        }
+    }
+
     static class Student{
         String name;
         Integer age;
