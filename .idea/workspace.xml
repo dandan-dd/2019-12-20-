@@ -12,33 +12,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/TreeMapTest.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/SetTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
-              <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+            <state relative-caret-position="272">
+              <caret line="101" column="41" selection-start-line="101" selection-start-column="41" selection-end-line="101" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/ComparableTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="186">
-              <caret line="100" column="69" lean-forward="true" selection-start-line="100" selection-start-column="69" selection-end-line="100" selection-end-column="69" />
-              <folding>
-                <element signature="e#3805#3806#0" expanded="true" />
-                <element signature="e#3847#3848#0" expanded="true" />
-                <element signature="e#4064#4065#0" expanded="true" />
-                <element signature="e#4100#4101#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -57,8 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/AbstractTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Interface2.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/InterfaceImpl.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/Interface.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/Extend/InterfaceTest.java" />
@@ -108,6 +105,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/mapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/TreeMapTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/ComparableTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/SetTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/SetTest.java" />
       </list>
     </option>
   </component>
@@ -199,7 +198,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="应用程序.ComparableTest">
+  <component name="RunManager" selected="应用程序.SetTest">
     <configuration name="ComparableTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.map.ComparableTest" />
       <module name="2019-12-20-" />
@@ -226,8 +225,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TreeMapTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.map.TreeMapTest" />
+    <configuration name="SetTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.map.SetTest" />
       <module name="2019-12-20-" />
       <extension name="coverage">
         <pattern>
@@ -239,12 +238,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="listIterator" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.list.listIterator" />
+    <configuration name="TreeMapTest" type="Application" factoryName="应用程序" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zeroten.java001.map.TreeMapTest" />
       <module name="2019-12-20-" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zeroten.java001.list.*" />
+          <option name="PATTERN" value="com.zeroten.java001.map.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -267,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.SetTest" />
         <item itemvalue="应用程序.ComparableTest" />
         <item itemvalue="应用程序.TreeMapTest" />
         <item itemvalue="应用程序.mapTest" />
         <item itemvalue="应用程序.LinkedListStudy" />
-        <item itemvalue="应用程序.listIterator" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +293,7 @@
       <workItem from="1577585282795" duration="3110000" />
       <workItem from="1578709770960" duration="598000" />
       <workItem from="1579151177804" duration="12881000" />
-      <workItem from="1579448797300" duration="44097000" />
+      <workItem from="1579448797300" duration="49643000" />
     </task>
     <servers />
   </component>
@@ -331,7 +330,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="113925000" />
+    <option name="totallyTimeSpent" value="119471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -355,7 +354,7 @@
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="消息" order="10" weight="0.24386252" />
-      <window_info active="true" anchor="bottom" id="运行" order="11" visible="true" weight="0.46972176" />
+      <window_info active="true" anchor="bottom" id="运行" order="11" visible="true" weight="0.41080198" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="bottom" id="调试" order="14" weight="0.26022914" />
@@ -833,13 +832,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/ComparableTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="100" column="69" lean-forward="true" selection-start-line="100" selection-start-column="69" selection-end-line="100" selection-end-column="69" />
+        <state relative-caret-position="-171">
+          <caret line="142" column="9" lean-forward="true" selection-start-line="142" selection-start-column="9" selection-end-line="142" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/zeroten/java001/map/SetTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="101" column="41" selection-start-line="101" selection-start-column="41" selection-end-line="101" selection-end-column="41" />
           <folding>
-            <element signature="e#3805#3806#0" expanded="true" />
-            <element signature="e#3847#3848#0" expanded="true" />
-            <element signature="e#4064#4065#0" expanded="true" />
-            <element signature="e#4100#4101#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
